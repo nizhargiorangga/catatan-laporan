@@ -47,15 +47,15 @@ Percakapan #4
 
 Tanya pertanyaan yang jawabannya sudah kamu tahu kebenarannya.
 
-G :hai claude mau tanya apa fungsi dari "<h1>"?
-C :jadi fungsi dari "<h1>" untuk membesarkan tulisan judul , bayangin koran pasti ada judul berita yang gede banget nah itu fungsi "<h1>"
+G :hai claude mau tanya apa fungsi dari (<h1>)?
+C :jadi fungsi dari (<h1>) untuk membesarkan tulisan judul , bayangin koran pasti ada judul berita yang gede banget nah itu fungsi (<h1>)
 
 Apakah jawabannya berguna / akurat / mengejutkan? Kenapa?
 Apakah ada detail yang salah atau kurang akurat?
-iya,claude sudah benar dan menurutku sangat akurat karena claude memberikan penjelasan sampai ke contoh " bayangin koran pasti ada judul berita yang teks nya gede banget nah itu fungsi "<h1>" " nah dari penjelasan itu saja menurutku sudah akurat.
+iya,claude sudah benar dan menurutku sangat akurat karena claude memberikan penjelasan sampai ke contoh " bayangin koran pasti ada judul berita yang teks nya gede banget nah itu fungsi (<h1>) " nah dari penjelasan itu saja menurutku sudah akurat.
 
 Pelajaran yang aku ambil dari percakapan ini:
-claude langsung bisa menjawab apa itu kegunaan "<h1>".
+claude langsung bisa menjawab apa itu kegunaan (<h1>).
 
 Percakapan #5
 
